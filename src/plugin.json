@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "photo-grid",
-  "id": "ina-photo-grid",
+  "id": "photo-grid",
   "info": {
     "description": "",
     "author": {
